@@ -1,0 +1,22 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "react project by kiranKamath",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k96white/namo-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "kiranKamath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k96white/namo-react/issues"
+  },
+  "homepage": "https://github.com/k96white/namo-react#readme"
+}
