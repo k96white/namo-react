@@ -2,7 +2,6 @@
   "name": "namastereact",
   "version": "1.0.0",
   "description": "react project by kiranKamath",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -20,6 +19,14 @@
   },
   "homepage": "https://github.com/k96white/namo-react#readme",
   "devDependencies": {
-    "parcel": "^2.10.3"
-  }
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
 }
